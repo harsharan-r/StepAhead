@@ -33,13 +33,6 @@
 		8F6C961F2895888900A4D7B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F6C961D2895888900A4D7B1 /* Main.storyboard */; };
 		8F6C96212895888900A4D7B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F6C96202895888900A4D7B1 /* Assets.xcassets */; };
 		8F6C96242895888A00A4D7B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F6C96222895888A00A4D7B1 /* LaunchScreen.storyboard */; };
-
-		915488C12895A0A000764E4B /* Poppins in Resources */ = {isa = PBXBuildFile; fileRef = 915488C02895A0A000764E4B /* Poppins */; };
-		915488C32895BC2F00764E4B /* BikeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915488C22895BC2F00764E4B /* BikeTableViewCell.swift */; };
-		915488C92895EC6000764E4B /* PopUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915488C82895EC6000764E4B /* PopUpViewController.swift */; };
-		915488CB2895F77600764E4B /* BikeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915488CA2895F77600764E4B /* BikeData.swift */; };
-		915488D12896045F00764E4B /* IshnuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915488D02896045F00764E4B /* IshnuViewController.swift */; };
-
 		8F6C962C2895893700A4D7B1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8F6C962B2895893700A4D7B1 /* GoogleService-Info.plist */; };
 		8F6C968B289636A800A4D7B1 /* LaunchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6C968A289636A800A4D7B1 /* LaunchViewController.swift */; };
 		8F6C968D289636CB00A4D7B1 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6C968C289636CB00A4D7B1 /* SignInViewController.swift */; };
@@ -48,7 +41,6 @@
 		8F6C969428963C7A00A4D7B1 /* FirebaseAnalyticsSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 8F6C969328963C7A00A4D7B1 /* FirebaseAnalyticsSwift */; };
 		8F6C969628963C7A00A4D7B1 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 8F6C969528963C7A00A4D7B1 /* FirebaseAuth */; };
 		8F8961E528961C890092169B /* ThuvaraganViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8961E428961C890092169B /* ThuvaraganViewController.swift */; };
-
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,20 +72,11 @@
 		8F6C96202895888900A4D7B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F6C96232895888A00A4D7B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F6C96252895888A00A4D7B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-
-		8F6C962B2895893700A4D7B1 /* GoogleService-Info-2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-2.plist"; sourceTree = "<group>"; };
-		915488C02895A0A000764E4B /* Poppins */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Poppins; sourceTree = "<group>"; };
-		915488C22895BC2F00764E4B /* BikeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeTableViewCell.swift; sourceTree = "<group>"; };
-		915488C82895EC6000764E4B /* PopUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpViewController.swift; sourceTree = "<group>"; };
-		915488CA2895F77600764E4B /* BikeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeData.swift; sourceTree = "<group>"; };
-		915488D02896045F00764E4B /* IshnuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IshnuViewController.swift; sourceTree = "<group>"; };
-
 		8F6C962B2895893700A4D7B1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8F6C968A289636A800A4D7B1 /* LaunchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchViewController.swift; sourceTree = "<group>"; };
 		8F6C968C289636CB00A4D7B1 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		8F6C968E289636D900A4D7B1 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		8F8961E428961C890092169B /* ThuvaraganViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThuvaraganViewController.swift; sourceTree = "<group>"; };
-
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,12 +84,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-
-
 				8F6C969428963C7A00A4D7B1 /* FirebaseAnalyticsSwift in Frameworks */,
 				8F6C969628963C7A00A4D7B1 /* FirebaseAuth in Frameworks */,
 				8F6C969228963C7A00A4D7B1 /* FirebaseAnalytics in Frameworks */,
-
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -163,23 +143,15 @@
 				8F6C96192895888900A4D7B1 /* SceneDelegate.swift */,
 				8F6C961B2895888900A4D7B1 /* ViewController.swift */,
 				8F6C961D2895888900A4D7B1 /* Main.storyboard */,
-				915488C02895A0A000764E4B /* Poppins */,
 				8F6C96202895888900A4D7B1 /* Assets.xcassets */,
 				8F6C96222895888A00A4D7B1 /* LaunchScreen.storyboard */,
 				8F6C962B2895893700A4D7B1 /* GoogleService-Info.plist */,
 				8F6C96252895888A00A4D7B1 /* Info.plist */,
-
-				915488C22895BC2F00764E4B /* BikeTableViewCell.swift */,
-				915488C82895EC6000764E4B /* PopUpViewController.swift */,
-				915488CA2895F77600764E4B /* BikeData.swift */,
-				915488D02896045F00764E4B /* IshnuViewController.swift */,
-
 				8F695F4F2895BF8A005F5F49 /* ShopTableViewCell.swift */,
 				8F695F512895F949005F5F49 /* Poppins */,
 				8F6C968A289636A800A4D7B1 /* LaunchViewController.swift */,
 				8F6C968C289636CB00A4D7B1 /* SignInViewController.swift */,
 				8F6C968E289636D900A4D7B1 /* LoginViewController.swift */,
-
 			);
 			path = StepAhead;
 			sourceTree = "<group>";
@@ -201,12 +173,9 @@
 			);
 			name = StepAhead;
 			packageProductDependencies = (
-
-
 				8F6C969128963C7A00A4D7B1 /* FirebaseAnalytics */,
 				8F6C969328963C7A00A4D7B1 /* FirebaseAnalyticsSwift */,
 				8F6C969528963C7A00A4D7B1 /* FirebaseAuth */,
-
 			);
 			productName = StepAhead;
 			productReference = 8F6C96142895888900A4D7B1 /* StepAhead.app */;
@@ -237,9 +206,7 @@
 			);
 			mainGroup = 8F6C960B2895888900A4D7B1;
 			packageReferences = (
-
 				8F6C969028963C7A00A4D7B1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
-
 			);
 			productRefGroup = 8F6C96152895888900A4D7B1 /* Products */;
 			projectDirPath = "";
@@ -255,9 +222,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-
-				915488C12895A0A000764E4B /* Poppins in Resources */,
-
 				8F695F712895F949005F5F49 /* Poppins-LightItalic.ttf in Resources */,
 				8F695F722895F949005F5F49 /* Poppins-Bold.ttf in Resources */,
 				8F695F6F2895F949005F5F49 /* OFL.txt in Resources */,
@@ -268,7 +232,6 @@
 				8F695F692895F949005F5F49 /* Poppins-Light.ttf in Resources */,
 				8F695F672895F949005F5F49 /* Poppins-ExtraLightItalic.ttf in Resources */,
 				8F695F742895F949005F5F49 /* Poppins-Thin.ttf in Resources */,
-
 				8F6C96242895888A00A4D7B1 /* LaunchScreen.storyboard in Resources */,
 				8F695F702895F949005F5F49 /* Poppins-Regular.ttf in Resources */,
 				8F6C96212895888900A4D7B1 /* Assets.xcassets in Resources */,
@@ -292,16 +255,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-
-				915488CB2895F77600764E4B /* BikeData.swift in Sources */,
-				915488D12896045F00764E4B /* IshnuViewController.swift in Sources */,
-				915488C92895EC6000764E4B /* PopUpViewController.swift in Sources */,
-				915488C32895BC2F00764E4B /* BikeTableViewCell.swift in Sources */,
-
 				8F6C968D289636CB00A4D7B1 /* SignInViewController.swift in Sources */,
 				8F8961E528961C890092169B /* ThuvaraganViewController.swift in Sources */,
 				8F6C968B289636A800A4D7B1 /* LaunchViewController.swift in Sources */,
-
 				8F6C961C2895888900A4D7B1 /* ViewController.swift in Sources */,
 				8F6C968F289636D900A4D7B1 /* LoginViewController.swift in Sources */,
 				8F6C96182895888900A4D7B1 /* AppDelegate.swift in Sources */,
@@ -523,7 +479,6 @@
 		};
 /* End XCConfigurationList section */
 
-
 /* Begin XCRemoteSwiftPackageReference section */
 		8F6C969028963C7A00A4D7B1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
 			isa = XCRemoteSwiftPackageReference;
@@ -552,7 +507,6 @@
 			productName = FirebaseAuth;
 		};
 /* End XCSwiftPackageProductDependency section */
-
 	};
 	rootObject = 8F6C960C2895888900A4D7B1 /* Project object */;
 }

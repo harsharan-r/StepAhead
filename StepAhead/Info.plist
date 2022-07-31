@@ -4,10 +4,7 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
-		<string>Poppins/Poppins-Regular.ttf</string>
-		<string>Poppins/Poppins-Bold.ttf</string>
 		<string>Poppins_Regular.ttf</string>
-
 	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
